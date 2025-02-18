@@ -1,0 +1,17 @@
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\Infraestructure.csproj.AssemblyReference.cache
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\Infraestructure.AssemblyInfoInputs.cache
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\Infraestructure.AssemblyInfo.cs
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\Infraestructure.csproj.CoreCompileInputs.cache
+D:\GIT\CSHARP\CleanUGB\Infraestructure\bin\Debug\net9.0\Infraestructure.deps.json
+D:\GIT\CSHARP\CleanUGB\Infraestructure\bin\Debug\net9.0\Infraestructure.dll
+D:\GIT\CSHARP\CleanUGB\Infraestructure\bin\Debug\net9.0\Infraestructure.pdb
+D:\GIT\CSHARP\CleanUGB\Infraestructure\bin\Debug\net9.0\Application.dll
+D:\GIT\CSHARP\CleanUGB\Infraestructure\bin\Debug\net9.0\Domain.dll
+D:\GIT\CSHARP\CleanUGB\Infraestructure\bin\Debug\net9.0\Application.pdb
+D:\GIT\CSHARP\CleanUGB\Infraestructure\bin\Debug\net9.0\Domain.pdb
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\Infraest.B0D41582.Up2Date
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\Infraestructure.dll
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\refint\Infraestructure.dll
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\Infraestructure.pdb
+D:\GIT\CSHARP\CleanUGB\Infraestructure\obj\Debug\net9.0\ref\Infraestructure.dll

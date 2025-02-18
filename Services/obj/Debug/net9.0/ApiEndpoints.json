@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Services.Controllers.AsignaturasController",
+    "Method": "Get",
+    "RelativePath": "Asignaturas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.AsignaturasController",
+    "Method": "Post",
+    "RelativePath": "Asignaturas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "asignatura",
+        "Type": "Domain.Entities.asignaturas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.AsignaturasController",
+    "Method": "Get",
+    "RelativePath": "Asignaturas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.AsignaturasController",
+    "Method": "Put",
+    "RelativePath": "Asignaturas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "asignatura",
+        "Type": "Domain.Entities.asignaturas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.AsignaturasController",
+    "Method": "Delete",
+    "RelativePath": "Asignaturas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
